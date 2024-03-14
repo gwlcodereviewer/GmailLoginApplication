@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596993949511",
+    "project_id": "gmaillogin-416308",
+    "storage_bucket": "gmaillogin-416308.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596993949511:android:43db21e2171ef998f6d662",
+        "android_client_info": {
+          "package_name": "com.gwl.gmailloginapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596993949511-5rdt43kn7imet5ot1dvaidnpr0nviu1f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gwl.gmailloginapplication",
+            "certificate_hash": "1d8297a2459f0ec61c48c74e23865601ed241fbe"
+          }
+        },
+        {
+          "client_id": "596993949511-65ebpnavk5mqkggk608khi0u1dhtoo1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxSMSXv5gyAvqvUm4RgsV_Mpk1BZmq2UQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596993949511-65ebpnavk5mqkggk608khi0u1dhtoo1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
